@@ -42,11 +42,11 @@ validarClave(password)
 # lista2=[3,2,64,75]
 # lista3=[11,22,44,95]
 
-# arrayNuevo=[]
-# arrayNuevo.extend(lista1)
-# arrayNuevo.extend(lista2)
-# arrayNuevo.extend(lista3)
-# print(max(arrayNuevo))
+arrayNuevo=[]
+arrayNuevo.extend(lista1)
+arrayNuevo.extend(lista2)
+arrayNuevo.extend(lista3)
+print(max(arrayNuevo))
 
 
 
